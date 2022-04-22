@@ -1,7 +1,7 @@
  pre requisites 
 ------------------
 
-=>ubuntu OS
+=>ubuntu OS....
 
 1: Install eksctl
 ------------------
